@@ -1,6 +1,6 @@
 <h1 align="center">Présentation</h1>
 
-Je m'appelle Julien, j'ai actuellement 20 ans et je suis en situation de handicap. Je n'ai pas suivi un cursus clasique mais ça ne m'empêche pas de suivre la voie de **Développeur Web**.
+Je m'appelle Julien, j'ai actuellement 21 ans et je suis en situation de handicap. Je n'ai pas suivi un cursus clasique mais ça ne m'empêche pas de suivre la voie de **Développeur Web**.
 
 ## Ce que je préfère dans le métier
 
