@@ -11,8 +11,8 @@ Je m'appelle Julien, j'ai actuellement 21 ans et je suis en situation de handica
 
 ## Liens
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-oui-blue.svg)](https://www.linkedin.com/in/julien-heng-developpeur-web/)
-[![Mon portfofolio](https://img.shields.io/badge/Portefolio-oui-yellow.svg)](https://developor45ju.github.io/julien_portfolio/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-actif-blue.svg)](https://www.linkedin.com/in/julien-heng-developpeur-web/)
+[![Portfofolio](https://img.shields.io/badge/Portefolio-actif-yellow.svg)](http://julien.nxdv.com/)
 
 <!---
 developor45ju/developor45ju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
